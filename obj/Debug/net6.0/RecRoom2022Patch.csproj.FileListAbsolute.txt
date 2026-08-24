@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\RecRoom2022Patch.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\RecRoom2022Patch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\RecRoom2022Patch.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\RecRoom2022Patch.AssemblyInfo.cs
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\RecRoom2022Patch.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RecRoom2022Patch\bin\Debug\net6.0\2022RecRoomPatch.deps.json
+C:\Users\PC\Desktop\RecRoom2022Patch\bin\Debug\net6.0\2022RecRoomPatch.dll
+C:\Users\PC\Desktop\RecRoom2022Patch\bin\Debug\net6.0\2022RecRoomPatch.pdb
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\2022RecRoomPatch.dll
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\refint\2022RecRoomPatch.dll
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\2022RecRoomPatch.pdb
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\ref\2022RecRoomPatch.dll

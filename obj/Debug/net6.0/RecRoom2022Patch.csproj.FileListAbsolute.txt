@@ -10,3 +10,4 @@ C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\2022RecRoomPatch.dll
 C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\refint\2022RecRoomPatch.dll
 C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\2022RecRoomPatch.pdb
 C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\ref\2022RecRoomPatch.dll
+C:\Users\PC\Desktop\RecRoom2022Patch\obj\Debug\net6.0\RecRoom2022Patch.sourcelink.json

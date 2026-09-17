@@ -75,7 +75,7 @@ namespace _2022RecRoomPatch
 
     public static class Patches
     {
-        private const string PUN_ID = "73d1077c-e4ef-4526-8c9a-6284b31c8778";
+        private const string PUN_ID = "REPLACEMEWITHPUNPHOTONID;
 
         public static bool EAC_Prefix(string FKJANDFEMBG, ref string __result)
         {

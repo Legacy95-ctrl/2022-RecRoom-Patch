@@ -8,7 +8,7 @@ using Il2CppOrg.BouncyCastle.Crypto.Tls;
 using MelonLoader;
 using static Il2CppInterop.Runtime.IL2CPP;
 
-[assembly: MelonInfo(typeof(_2022RecRoomPatch.Patch), "RecRoom 2022 Patch", "1.7.0", "Legacy)]
+[assembly: MelonInfo(typeof(_2022RecRoomPatch.Patch), "RecRoom 2022 Patch", "1.7.0", "Legacy")]
 [assembly: MelonGame("Against Gravity", "Rec Room")]
 
 namespace _2022RecRoomPatch
